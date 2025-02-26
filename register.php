@@ -3,8 +3,8 @@
         <title>Form</title>
     </head>
     <body>
-        <form action="action.php" method="post"> 
-            <table>
+        <form action="action_page.php" method="post"> 
+            <table Border="1" cellspacing="5">
                 <th> Question </th>
                 <th> Answer </th>
 
@@ -28,7 +28,7 @@
                 </tr>
 
                 <tr>
-                    <td colspan="2"> <input type="submit" value="Save"> </td>
+                    <td colspan="2" Align="right"> <input type="submit" name="Save" value="Save"> </td>
                 </tr>
             </table>
         </form>      
