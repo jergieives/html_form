@@ -5,6 +5,9 @@
     <body>
         <form action="action.php" method="post"> 
             <table>
+                <th> Question </th>
+                <th> Answer </th>
+
                 <tr>
                     <td> Name </td>
                     <td> <input type="text" name="name"> </td>
