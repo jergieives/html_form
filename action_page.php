@@ -13,7 +13,7 @@
 $servername = "localhost";
 $username = "root";
 $password = "";
-$database = "i201";
+$database = "wait_lang_sir";
 
 
 // Create connection
